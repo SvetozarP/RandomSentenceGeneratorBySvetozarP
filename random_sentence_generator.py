@@ -1,6 +1,9 @@
 import random
+
+
 def get_random_word(words):
     return random.choice(words)
+
 
 names: list = ["Peter", "Michel", "Johnny", "Michael", "John", "Gosho", "Sarah", "Pesho", "Mary", "Sarah",
                "Michelle", "Steve", "Stephen"]
